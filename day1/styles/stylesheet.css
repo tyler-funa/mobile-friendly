@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+}
+
+.f-right {
+  float: right;
+
+}
+.f-left {
+  float: left;
+}
+p {
+  clear: both;
+  padding: 20px 0px;
+}
+.center {
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 2.5px;
+}
+.overSvg {
+  position: absolute;
+  width: 100%;
+  top: 120px;
+}
+div h1 {
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 300;
+}
+.title-color {
+  color: white;
+}
+h1 {
+  color: teal;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+.space {
+  padding: 25px 215px;
+}
+.align-right {
+  text-align: right;
+
+}
+.align-left {
+  text-align: left;
+}
