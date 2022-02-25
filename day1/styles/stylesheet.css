@@ -45,3 +45,10 @@ h1 {
 .align-left {
   text-align: left;
 }
+.footer {
+  text-align: center;
+  background: rgba(0,29,36,1);
+  color: white;
+  position: absolute;`
+  width: 100%;
+}
